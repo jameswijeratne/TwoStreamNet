@@ -27,7 +27,7 @@ See Section 3 of the notebook for the full implementation.
 
 ```
 .
-├── BioEng142_nb2.ipynb     # Main notebook: model, tuning, training, CV
+├── trainer.ipynb     # Main notebook: model, tuning, training, CV
 ├── figures.py              # Standalone script that builds the paper figures
 ├── figures/                # Output directory for generated PDF figures
 ├── final_report.pdf        # LaTeX-formatted writeup of the project

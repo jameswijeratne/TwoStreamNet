@@ -16,7 +16,7 @@ plt.rcParams.update({
     'ytick.labelsize': 8,
 })
 
-OUT = 'E:/School/Classes/BioEng C142/Final_Project/figures'
+OUT = 'E:/School/Classes/BioEng C142/TwoStreamNet/figures'
 
 # -----------------------------------------------------------------------------
 # Figure 1: TwoStreamNet architecture diagram
